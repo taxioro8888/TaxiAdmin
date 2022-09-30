@@ -1,0 +1,25 @@
+[22-Dec-2020 13:56:53 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Dec-2020 13:56:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Braintree\Exception' not found in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/NotFound.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/NotFound.php on line 12
+[22-Dec-2020 13:56:57 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Dec-2020 13:56:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Braintree\Exception' not found in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/UpgradeRequired.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/UpgradeRequired.php on line 12
+[22-Dec-2020 13:57:25 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Dec-2020 13:57:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Braintree\Exception' not found in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/UpgradeRequired.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/UpgradeRequired.php on line 12
+[22-Dec-2020 13:57:29 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Dec-2020 13:57:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Braintree\Exception' not found in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/UpgradeRequired.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/UpgradeRequired.php on line 12
+[22-Dec-2020 13:57:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Dec-2020 13:57:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Braintree\Exception' not found in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/NotFound.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Exception/NotFound.php on line 12

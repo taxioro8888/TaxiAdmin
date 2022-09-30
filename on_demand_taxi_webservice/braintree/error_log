@@ -1,0 +1,1350 @@
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:27 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:27 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:27 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:28 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:28 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:31 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:32 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:32 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:32 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:34 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:44 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:47 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:48 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:49 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:49 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:49 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:49 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:50 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:50 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:51 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:51 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:51 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:51 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:52 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:53 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:19:54 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:19:54 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:20:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:20:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 16:20:41 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 16:20:41 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:34 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:35 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:36 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:36 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:36 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:36 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:36 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:36 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:36 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:37 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:43 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:43 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:44 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:44 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:45 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:45 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:46 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:46 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:32:46 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:46 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:32:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:33:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:33:23 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:33:24 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:33:24 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:33:25 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:33:25 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Dec-2020 20:33:58 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Dec-2020 20:33:59 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:55 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:56 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:56 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:57 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:58 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:45:58 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:45:59 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:00 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:10 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:10 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:10 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:10 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:10 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:10 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:10 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:10 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:11 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:11 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:11 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:11 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:11 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:11 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:12 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:12 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:12 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:13 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:13 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:13 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:13 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:15 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:33 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:46 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:46 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:46:46 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:46:47 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[01-Jan-2021 12:47:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[01-Jan-2021 12:47:04 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:01 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:01 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:04 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:04 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:04 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:05 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:05 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:05 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:06 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:06 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:08 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:11 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 17:58:48 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 17:58:48 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:02 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:04 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:04 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:04 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:08 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:08 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:08 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Jan-2021 18:07:09 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[06-Jan-2021 18:07:09 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /h in /home1/ventaproducto/uber.ventaproducto.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[12-Jun-2021 19:07:04 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[12-Jun-2021 19:07:36 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[12-Jun-2021 19:08:25 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(511): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(48): Braintree\TransactionGateway->_doCreate('/transactions', Array)
+#3 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/TransactionGateway.php(323): Braintree\TransactionGateway->create(Array)
+#4 /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Transaction.php(588): Braintree\TransactionGateway->sale(Array)
+#5 /home4/siste14 in /home4/siste143/taxi.sistemasguerrero.net/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[29-Jul-2021 18:43:30 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[29-Jul-2021 19:45:57 America/Chicago] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home1/dractechnology/taxi.drac-technology.com/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[07-Nov-2021 14:28:53 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[12-Nov-2021 06:47:08 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[12-Nov-2021 06:48:15 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[04-Dec-2021 22:34:57 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[04-Dec-2021 22:35:54 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[04-Dec-2021 22:36:04 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[04-Dec-2021 22:36:24 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[04-Dec-2021 22:36:36 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[14-Dec-2021 12:36:08 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[14-Dec-2021 13:13:25 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[16-Dec-2021 21:17:55 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[20-Jan-2022 10:17:01 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[22-Jan-2022 00:46:16 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[07-Feb-2022 12:29:07 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[21-Feb-2022 20:06:34 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
+[09-Mar-2022 12:58:38 America/Mexico_City] PHP Fatal error:  Uncaught Braintree\Exception\Authentication in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php:56
+Stack trace:
+#0 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Http.php(50): Braintree\Util::throwStatusCodeException(401)
+#1 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(61): Braintree\Http->post('/merchants/YOUR...', Array)
+#2 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientTokenGateway.php(47): Braintree\ClientTokenGateway->_doGenerate('/client_token', Array)
+#3 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/ClientToken.php(18): Braintree\ClientTokenGateway->generate(Array)
+#4 /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/main.php(4): Braintree\ClientToken::generate()
+#5 {main}
+  thrown in /home4/detrinic/public_html/on_demand_taxi_webservice/braintree/lib/Braintree/Util.php on line 56
